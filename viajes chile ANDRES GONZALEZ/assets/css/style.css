@@ -1,0 +1,87 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: black;
+  color:white;
+}
+ .navbar {
+  background-color: transparent !important;
+  color:white;
+}
+ .bg-interno{
+  background-color: #16a2b7;
+  transition: all 2s ease;
+ }
+
+ .carousel-item {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.hr_linea{
+  background-color: #16a2b7;
+  height:0.2em;
+}
+.fondoB
+{
+  background-color: black;
+}
+
+.fa-iconos{
+  font-size: 2em;
+  color: #fff;
+}
+.card-body00
+{  background-color:white;;  
+  margin-top: 1.5em;
+  }
+.card-body01
+{  background-color: #16a2b7;  
+  padding:0;
+  }
+.card-body02
+{  background-color: black;
+  color:white;
+  padding:0;
+  margin:0;
+  text-align:left;
+}
+.card-body03
+{ background-color: #16a2b7;  
+  color:white;
+  text-align:left;
+  height:17em;
+  padding: 0.5em;
+  
+}
+.tam_img{
+  height:140px;
+}
+
+footer {
+  color:white;
+  font-weight: bold;
+  background-color: #16a2b7;
+  font-family: "Raleway";
+  font-size: 400;
+  position: absolute;
+  width: 100%;
+  padding:2px
+ }
+
+.f-page
+{
+  background-color: #16a2b7;
+}
+.btn-celeste {
+  background-color: #ffffff;
+  color:  #16a2b7;
+  border-color:  #16a2b7;
+}
+.btn-celeste:hover {
+  background-color: #16a2b7;
+  color: #ffffff;
+  border-color:  #16a2b7;
+}
